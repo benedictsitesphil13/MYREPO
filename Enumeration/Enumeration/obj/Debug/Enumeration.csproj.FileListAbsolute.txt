@@ -9,3 +9,14 @@ C:\Users\BETTY\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.csproj
 C:\Users\BETTY\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
 C:\Users\BETTY\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.exe
 C:\Users\BETTY\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.pdb
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.AssemblyReference.cache
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.SuggestedBindingRedirects.cache
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.Form1.resources
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.Properties.Resources.resources
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.GenerateResource.cache
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\BETTY\source\repos\Enumeration\MyRepo\Enumeration\Enumeration\obj\Debug\Enumeration.pdb
