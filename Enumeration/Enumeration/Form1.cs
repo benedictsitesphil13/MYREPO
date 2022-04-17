@@ -18,6 +18,7 @@ namespace Enumeration
             InitializeComponent();
             panel1.Visible = true;
             panel2.Visible = false;
+            panel3.Visible = false;
 
         }
 
@@ -80,7 +81,24 @@ namespace Enumeration
 
         private void button4_Click(object sender, EventArgs e)
         {
-            this.Close();
+            panel1.Visible = false;
+            panel2.Visible = false;
+            panel3.Visible = true;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            var bm = new Bitmap(Enumeration.Properties.Resources.male);
+            pictureBox1.Image = bm;
+            GenderLabel.Text = "You are a male";
+            //GenderLabel.TextAlign = CenterToScreen;
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            var bm = new Bitmap(Enumeration.Properties.Resources.female);
+            pictureBox1.Image = bm;
+            GenderLabel.Text = "You are a female";
         }
     }
 }

@@ -63,10 +63,19 @@ namespace Enumeration.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap png_transparent_public_toilet_gender_symbol_bathroom_male_man_toilet_text_bathroom_logo {
+        internal static System.Drawing.Bitmap female {
             get {
-                object obj = ResourceManager.GetObject("png_transparent_public_toilet_gender_symbol_bathroom_male_man_toilet_text_bathroo" +
-                        "m_logo", resourceCulture);
+                object obj = ResourceManager.GetObject("female", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap male {
+            get {
+                object obj = ResourceManager.GetObject("male", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
